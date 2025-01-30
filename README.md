@@ -2,6 +2,9 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;I'm+Melinda+Wijaya;Full+Stack+Developer+from+Indonesia&center=true&width=380&height=45">
 </div>
 
+## 🌐 My Portfolio
+- Check out my portfolio: [melindawijaya.github.io/My-Portfolio](https://melindawijaya.github.io/My-Portfolio/)
+
 ## 👨‍💻 About Me
 
 - 🔭 I'm a passionate Full Stack Developer from Indonesia
